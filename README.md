@@ -6,7 +6,7 @@ Implementing basic 2D scene editing features to interact with scene objects as w
   <img src="/resources/screenshot.png" alt="A screenshot of the running project demonstrating each of the completed features." width="800">
 </p>
 
-One should be able to download the [2D-objects-and-transformations](https://github.com/trastopchin/AIT-CG-2D-Objects-And-Transformations/tree/master/2D_objects_and_transformations) folder and open up the [index.html](https://github.com/trastopchin/AIT-CG-2D-Objects-And-Transformations/blob/master/2D_objects_and_transformations/graphics/index.html) file in a web browser to see the project. In the case of google chrome, one might have to open the browser with `open /Applications/Google\ Chrome.app --args --allow-file-access-from-files` in order to load images and textures properly. This project was built upon László Szécsi's starter code and class powerpoint slides.
+One should be able to download the [2D_objects_and_transformations](https://github.com/trastopchin/AIT-CG-2D-Objects-And-Transformations/tree/master/2D_objects_and_transformations) folder and open up the [index.html](https://github.com/trastopchin/AIT-CG-2D-Objects-And-Transformations/blob/master/2D_objects_and_transformations/graphics/index.html) file in a web browser to see the project. In the case of google chrome, one might have to open the browser with `open /Applications/Google\ Chrome.app --args --allow-file-access-from-files` in order to load images and textures properly. This project was built upon László Szécsi's starter code and class powerpoint slides.
 
 ## Completed Features:
 
